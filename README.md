@@ -4,21 +4,21 @@ A Python-based Jupyter Notebook designed for analyzing and processing data relat
 
 Table of Contents
 
-Overview
+      **Overview
+      
+      Features
+      
+      Requirements
+      
+      Installation
+      
+      Usage
+      
+      Contributing
+      
+      License**
 
-Features
-
-Requirements
-
-Installation
-
-Usage
-
-Contributing
-
-License
-
-Overview
+**Overview**
 
 This notebook provides tools and workflows for working with ChEMBL bioassay data. It includes:
 
@@ -32,8 +32,8 @@ File and directory management for streamlined data handling.
 
 This notebook is suitable for researchers, data scientists, and bioinformaticians working with ChEMBL or related datasets.
 
-Features
-
+**Features
+**
 Preprocessing of ChEMBL data using pandas.
 
 Visualization of trends and insights with matplotlib.
@@ -42,7 +42,7 @@ External data fetching using the requests library.
 
 Modular design for easy extension and reuse.
 
-Requirements
+**Requirements**
 
 Python 3.x
 
@@ -62,7 +62,7 @@ os (built-in)
 
 shutil (built-in)
 
-Installation
+**Installation**
 
 Clone the Repository
 
@@ -90,7 +90,7 @@ Launch Jupyter Notebook and open the ChEMBL_Codes.ipynb file:
 
 $ jupyter notebook
 
-Usage
+**Usage**
 
 Open the ChEMBL_Codes.ipynb file in Jupyter Notebook.
 
@@ -106,7 +106,7 @@ Generating summary statistics.
 
 Creating plots and visualizations.
 
-Contributing
+**Contributing**
 
 Contributions are welcome! If you'd like to contribute, please:
 
@@ -126,7 +126,7 @@ $ git push origin feature-name
 
 Submit a pull request.
 
-License
-
+**License
+**
 This project is licensed under the MIT License. See the LICENSE file for details.
 
