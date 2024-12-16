@@ -4,13 +4,13 @@ A Python-based Jupyter Notebook designed for analyzing and processing data relat
 
 Table of Contents
 
-      **Overview**
-      **Features**
-      **Requirements**
-      **Installation**
-      **Usage**
-      **Contributing**
-      **License**
+**Overview**
+**Features**
+**Requirements**
+**Installation**
+**Usage**
+**Contributing**
+**License**
 
 **Overview**
 
@@ -60,29 +60,29 @@ shutil (built-in)
 
 Clone the Repository
 
-$ git clone https://github.com/your-username/ChEMBL_Codes_Analysis.git
-$ cd ChEMBL_Codes_Analysis
+     $ git clone https://github.com/your-username/ChEMBL_Codes_Analysis.git
+     $ cd ChEMBL_Codes_Analysis
 
 Set Up the Environment
 
 Create a virtual environment (optional but recommended):
 
-$ python -m venv env
-$ source env/bin/activate  # On Windows: env\Scripts\activate
+     $ python -m venv env
+     $ source env/bin/activate  # On Windows: env\Scripts\activate
 
 Install the dependencies:
 
-$ pip install -r requirements.txt
-
-If you do not have a requirements.txt file, manually install dependencies:
-
-$ pip install pandas numpy matplotlib requests
+     $ pip install -r requirements.txt
+     
+     If you do not have a requirements.txt file, manually install dependencies:
+     
+     $ pip install pandas numpy matplotlib requests
 
 Run the Notebook
 
 Launch Jupyter Notebook and open the ChEMBL_Codes.ipynb file:
 
-$ jupyter notebook
+     $ jupyter notebook
 
 **Usage**
 
@@ -108,15 +108,15 @@ Fork the repository.
 
 Create a new branch for your feature or bug fix:
 
-$ git checkout -b feature-name
+     $ git checkout -b feature-name
 
 Commit your changes:
 
-$ git commit -m "Add feature description"
+     $ git commit -m "Add feature description"
 
 Push to your branch:
 
-$ git push origin feature-name
+     $ git push origin feature-name
 
 Submit a pull request.
 
