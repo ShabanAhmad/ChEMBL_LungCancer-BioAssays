@@ -4,19 +4,13 @@ A Python-based Jupyter Notebook designed for analyzing and processing data relat
 
 Table of Contents
 
-      **Overview
-      
-      Features
-      
-      Requirements
-      
-      Installation
-      
-      Usage
-      
-      Contributing
-      
-      License**
+      **Overview**
+      **Features**
+      **Requirements**
+      **Installation**
+      **Usage**
+      **Contributing**
+      **License**
 
 **Overview**
 
@@ -32,8 +26,8 @@ File and directory management for streamlined data handling.
 
 This notebook is suitable for researchers, data scientists, and bioinformaticians working with ChEMBL or related datasets.
 
-**Features
-**
+**Features**
+
 Preprocessing of ChEMBL data using pandas.
 
 Visualization of trends and insights with matplotlib.
@@ -126,7 +120,7 @@ $ git push origin feature-name
 
 Submit a pull request.
 
-**License
-**
+**License**
+
 This project is licensed under the MIT License. See the LICENSE file for details.
 
