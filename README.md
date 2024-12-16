@@ -1,4 +1,4 @@
-ChEMBL Codes Analysis Notebook
+******ChEMBL Codes******
 
 A Python-based Jupyter Notebook designed for analyzing and processing data related to ChEMBL bioassays. This project integrates various Python libraries to preprocess, analyze, and visualize datasets efficiently.
 
